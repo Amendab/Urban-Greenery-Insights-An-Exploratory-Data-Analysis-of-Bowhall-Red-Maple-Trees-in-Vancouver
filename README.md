@@ -95,3 +95,5 @@ Planting Trends: Identification of yearly planting patterns.
 Height-Diameter Correlation: Analysis of the relationship between Height Range ID and Diameter, highlighting patterns over time.
 Tree Size Preferences: Insights into the most frequently planted height categories.
 Strategic Recommendations: Suggestions for future planting strategies to enhance urban greenery.
+
+!(Exploratory-Data-Analysis)(https://github.com/Amendab/Urban-Greenery-Insights-An-Exploratory-Data-Analysis-of-Bowhall-Red-Maple-Trees-in-Vancouver/blob/main/EDA_drawio.png)
