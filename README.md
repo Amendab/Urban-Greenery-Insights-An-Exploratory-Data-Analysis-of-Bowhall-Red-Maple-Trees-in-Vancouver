@@ -1,15 +1,18 @@
 # Urban-Greenery-Insights: An-Exploratory-Data-Analysis-of-Bowhall-Red-Maple-Trees-in-Vancouver
 
 **Project Description**
+
 This project examines the trends in planting Bowhall Red Maple trees across Vancouver between 2014 and 2024. Using data sourced from the City of Vancouver’s Open Data Portal, the analysis focuses on key metrics such as tree heights, diameters, and their correlations, alongside yearly planting patterns. The study provides actionable insights into urban forestry practices, contributing to the optimization of greenery management strategies for sustainable urban development.
 
 **Objective**
+
 To explore the trends in planting Bowhall Red Maple trees in Vancouver and answer:
 What patterns and insights can be derived from the planting activities of Bowhall Red Maple trees over the past decade (2014–2024)?
 
 The analysis also aims to examine the correlation between Height Range ID and Diameter, offering deeper insights into the characteristics of planted trees. This will support recommendations for enhancing future urban forestry initiatives.
 
 **Dataset**
+
 The dataset utilized in this analysis was sourced from the City of Vancouver’s Open Data Portal. It originally contained 21 columns and 429 records, providing detailed information about Bowhall Red Maple trees planted on city boulevards between 2014 and 2024.
 
 Key Columns Used:
@@ -24,6 +27,7 @@ Key Columns Used:
 After data cleaning, irrelevant fields were removed, leaving 7 key columns essential for answering the business question and calculating the correlation between Height Range ID and Diameter.
 
 **Methodology**
+
 - Step 1: Data Collection and Storage
 Storage in AWS S3:
 Raw dataset uploaded to an S3 bucket, organized into a folder structure labeled Street_Trees_Ingestion_Year=2024.
