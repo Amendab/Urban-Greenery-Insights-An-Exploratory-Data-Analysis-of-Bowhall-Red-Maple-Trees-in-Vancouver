@@ -86,6 +86,7 @@ City of Vancouver’s Open Data Portal: Sourced dataset and generated additional
 Microsoft Excel: For creating advanced visualizations and presentation-ready graphs.
 
 **Deliverables**
+
 Planting Trends: Identification of yearly planting patterns.
 Height-Diameter Correlation: Analysis of the relationship between Height Range ID and Diameter, highlighting patterns over time.
 Tree Size Preferences: Insights into the most frequently planted height categories.
